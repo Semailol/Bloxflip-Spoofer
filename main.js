@@ -14,7 +14,7 @@
     function Z() {
         var avatarImage = document.querySelector('img[alt="User avatar"]');
         if (avatarImage) {
-            avatarImage.src = 'https://cdn.discordapp.com/avatars/783594054431932426/a_27a008b0cc84b522346dcc5a676a7ef6.gif?size=4096';
+            avatarImage.src = 'https://cdn.discordapp.com/attachments/1225674674000887892/1242260724299075646/dddddddd.jpg?ex=664d30f4&is=664bdf74&hm=9380bb27c310b1914a7218b93916ebc43d24feaf914ece03ce1576fa6eddfd2f&';
             avatarImage.removeAttribute("decoding");
         }
     }
